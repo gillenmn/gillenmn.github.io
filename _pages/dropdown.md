@@ -10,5 +10,4 @@ children:
   - title: divider
   - title: teaching
     permalink: /teaching/
-  - title: divider
 ---
