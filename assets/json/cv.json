@@ -133,7 +133,7 @@
       "keywords": [
         "MATLAB",
         "Python",
-        "ArcGIS Pro"
+        "ArcGIS Pro",
         "GitHub"
       ]
     },
@@ -202,7 +202,7 @@
   "graduate student community": [
     {
       "organization": "Joint Program Student Representatives",
-      "icon": "fa-solid fa-face-smile"
+      "icon": "fa-solid fa-face-smile",
       "position": "Geology & Geophysics Representative",
       "url": "https://jpreps.mit.edu/",
       "startDate": "2022-10-01",
@@ -210,7 +210,7 @@
     },
     {
       "organization": "Joint Program Applicant Support Knowledgebase (JP ASK)",
-      "icon": "fa-solid fa-stair"
+      "icon": "fa-solid fa-stair",
       "position": "Mentor",
       "url": "https://mit.whoi.edu/admissions/apply/jp-applicant-support-knowledgebase-jp-ask/",
       "startDate": "2020-09-01",
@@ -218,7 +218,7 @@
     },
     {
       "organization": "MIT EAPS Application Mentorship Program",
-      "icon": "fa-solid fa-stair"
+      "icon": "fa-solid fa-stair",
       "position": "Mentor",
       "url": "https://sites.google.com/view/eaps-student-advisory-council/application-assistance",
       "startDate": "2021-09-01",
@@ -227,7 +227,7 @@
   "extracurricular": [
     {
       "organization": "MIT Women's Ultimate",
-      "icon": "fa-solid fa-bolt"
+      "icon": "fa-solid fa-bolt",
       "position": "Coach",
       "url": "https://scripts.mit.edu/~womens-ult/",
       "startDate": "2023-09-01",
@@ -236,7 +236,7 @@
     },
     {
       "organization": "Boston Vice Women's Ultimate",
-      "icon": "fa-solid fa-pineapple"
+      "icon": "fa-solid fa-pineapple",
       "position": "Player & Uniform Chair",
       "url": "https://scripts.mit.edu/~womens-ult/",
       "startDate": "2022-06-01",
