@@ -7,6 +7,8 @@
       value: 5th July 1998
     - name: Languages
       value: English
+    - name: E-mail
+      value: mgillen@mit.edu
 
 - title: Education
   type: time_table
@@ -15,20 +17,14 @@
       institution: MIT-WHOI Joint Program in Oceanography, Cambridge and Woods Hole, MA, USA
       year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
     - title: B.S. in Geology
       institution: William & Mary, Williamsburg, VA, USA
       year: 2020
       description:
-        - Received High Honors for Senior Thesis: "Vulnerability & Reslience of Tidal Marshes Along an Estuarine Salinity Gradient"
+        - Received High Honors for Senior Thesis: <i>Vulnerability & Reslience of Tidal Marshes Along an Estuarine Salinity Gradient</i>
         - Minor in Data Science with a concentration in GIS
 
-- title: Honors and Awards
+- title: Fellowships & Grants
   type: time_table
   contents:
     - year: 2023
@@ -39,33 +35,77 @@
         - AGeS-Grad3 NSF Student Research Grant
     - year: 2021
       items:
-        - Honorable Mention NSF GRFP
         - Watson WHOI Graduate Fellowship
     - year: 2020
       items:
         - Von Damm WHOI Graduate Fellowship
+    - year: 2018
+      items:
+        - Ernst F. Hollings Scholar NOAA (2018-2020)
+        
+- title: Certificates
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - MIT Kaufman Teaching Certificate Program
+    - year: 2021
+      items:
+        - CSDMS Earth Surface Processes Institute (ESPIn)
+        
+- title: Honors & Awards
+  type: time_table
+  contents:
+    - year: 2021
+      items:
+        - Honorable Mention NSF GRFP
+    - year: 2020
+      items:
         - Phi Beta Kappa William & Mary Chapter
     - year: 2019
       items:
         - Best Undergraduate Student Poster Award at CERF 2019 Meeting
-    - year: 2018
-      items:
-        - Ernst F. Hollings Scholar NOAA (2018-2020)
-
-- title: Academic Interests
+        
+- title: Skills
   type: nested_list
   contents:
-    - title: Sandy & Muddy Coasts
+    - title: Software
       items:
-        - Modeling lower shoreface equilibrium morphology and net transport with 40-year wave climate & bedload transport
-        - Vulnerability & resilience of tidal marshes along an estuarine salinity gradient
-        - Developing new methodology for determining the depth of closure
-    - title: Reefs & Volcanic Ocean Islands
+        - MATLAB
+        - Python
+        - ArcGIS Pro
+        - GitHub
+    - title: Lab
       items:
-        - Relationships between island rivers & reef passes
-        - Quantifying drivers of island morphology
+        - Loss on Ignition (LOI)
+        - Optically Stimulated Luminescence (OSL)
+        - Biomass analysis (vegetation)
+        - Grain Size analysis
+    - title: Field
+        - Humboldt Shear Vane
+        - Sediment Coring
+        - Vegetation Transects & Collection
+        - Tiltmeters
+        - RTK GPS
+        - Ground Penetrating Radar (GPR)
 
-- title: Other Interests
+- title: Academic Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Ultimate Frisbee
+  - <i>Fields:</i> Coastal Geomorphology, Landscape Evolution, Ecogeomorphology
+  - <i>Environments:</i> Sandy Beaches, Muddy Coasts, Reefs, Volcanic Ocean Islands
+  - <i>Methods:</i> Numerical Modeling, Data Science, Remote Sensing
+
+- title: Graduate Student Community
+  type: list
+  contents:
+    - Geology & Geophysics Representative (Oct 2022-2023), Joint Program Student Representatives
+    - Mentor (Sep 2021-2023), Joint Program Applicant Support Knowledgebase (JP ASK)
+    - Mentor (Sep 2021-2023), MIT EAPS Application Mentorship Program
+    
+- title: Extracurriculars
+  type: list
+  contents:
+    - Coach & Player (2021-2023), sMITe Ultimate
+    - Player & Uniform Chair, Boston Vice Ultimate
+
