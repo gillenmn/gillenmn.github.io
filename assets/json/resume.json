@@ -47,7 +47,7 @@
       "url": "https://www.cerf.science/",
     }
   ],
-  "grants & fellowships": [
+  "fellowships": [
     {
       "title": "Raj V. Tahil Fellowship",
       "date": "2023",
@@ -55,6 +55,25 @@
       "url": "https://oge.mit.edu/fellowships/oge-fellowships-and-awards/oge-fellowships/",
       "summary": "9-month fellowship awarded to 'graduate students performing research on improving the environment through scientific, engineering or public policy solutions.'",
     },
+    {
+      "title": "Watson Graduate Fellowship",
+      "date": "Spring 2021",
+      "awarder": "WHOI",
+    },
+    {
+      "title": "Von Damm Graduate Fellowship",
+      "date": "Fall 2020",
+      "awarder": "WHOI",
+    },
+    {
+      "title": "Ernst F. Hollings Undergraduate Scholarship",
+      "date": "2018-2020",
+      "awarder": "National Oceanic and Atmopsheric Administration (NOAA)",
+      "url": "https://www.noaa.gov/office-education/hollings-scholarship",
+      "summary": "'The Hollings Scholarship Program provides successful undergraduate applicants with awards that include academic assistance (up to $9,500 per year) for two years of full-time study and a 10-week, full-time paid ($700/week) internship at a NOAA facility during the summer.'",
+    }
+  ],
+  "grants": [
     {
       "title": "Harold T. Stearns Graduate Student Research Grant",
       "date": "2023",
@@ -75,23 +94,6 @@
       "awarder": "WHOI",
       "url": "https://mit.whoi.edu/research/awards/awards-for-current-students/whoi-ocean-ventures-fund-recipients/",
       "summary": "'The intent of the Ocean Ventures Fund is to promote research and innovation by encouraging graduate students to take chances for their thesis research or for developing their thesis project. OVF is open to all students in the MIT-WHOI Joint Program in Oceanography/Applied Ocean Physics and Engineering.  The research idea and the proposal text must come from the graduate student.  The student is the Principal Investigator.'",
-    },
-    {
-      "title": "Watson Graduate Fellowship",
-      "date": "Spring 2021",
-      "awarder": "WHOI",
-    },
-    {
-      "title": "Von Damm Graduate Fellowship",
-      "date": "Fall 2020",
-      "awarder": "WHOI",
-    },
-    {
-      "title": "Ernst F. Hollings Undergraduate Scholarship",
-      "date": "2018-2020",
-      "awarder": "National Oceanic and Atmopsheric Administration (NOAA)",
-      "url": "https://www.noaa.gov/office-education/hollings-scholarship",
-      "summary": "'The Hollings Scholarship Program provides successful undergraduate applicants with awards that include academic assistance (up to $9,500 per year) for two years of full-time study and a 10-week, full-time paid ($700/week) internship at a NOAA facility during the summer.'",
     }
   ],
   "certificates": [

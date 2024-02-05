@@ -413,7 +413,8 @@ jsonresume:
   - basics
   - education
   - awards
-  - grants&fellowships
+  - grants
+  - fellowships
   - certificates
   - publications
   - skills
