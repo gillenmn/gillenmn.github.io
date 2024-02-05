@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-06-15
+date: 2024-02-02
 inline: true
 related_posts: false
 ---
 
-passed my general exams! :tada:
+website is live! :wave:

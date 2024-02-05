@@ -2,12 +2,14 @@
 layout: about
 title: home
 permalink: /
-subtitle: Coastal Geomorphologist 🌊🏝️🪸 <mgillen@mit.edu>
+subtitle: Coastal Geomorphologist 🌊🏝️🪸
 
 profile:
   align: right
   image: headshot.jpg
   image_circular: true # crops the image to make it circular
+  more_info: >
+    <p><a href='mailto:mgillen@mit.edu'>mgillen@mit.edu</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts

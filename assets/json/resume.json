@@ -47,7 +47,7 @@
       "url": "https://www.cerf.science/",
     }
   ],
-  "grants/fellowships": [
+  "grants&fellowships": [
     {
       "title": "Raj V. Tahil Fellowship",
       "date": "2023",
@@ -124,7 +124,7 @@
       "releaseDate": "2021-05-21",
       "url": "https://esurf.copernicus.org/articles/9/413/2021/",
       "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.",
-    },
+    }
   ],
   "skills": [
     {
