@@ -21,12 +21,15 @@
       institution: William & Mary, Williamsburg, VA, USA
       year: 2020
       description:
-        - Received High Honors for Senior Thesis: Vulnerability & Reslience of Tidal Marshes Along an Estuarine Salinity Gradient
+        - Received High Honors for Senior Thesis <i>Vulnerability & Reslience of Tidal Marshes Along an Estuarine Salinity Gradient</i>
         - Minor in Data Science with a concentration in GIS
 
 - title: Fellowships and Grants
   type: time_table
   contents:
+    - year: 2024
+      items:
+        - MathWorks MIT School of Science Graduate Fellowship
     - year: 2023
       items:
         - Raj V. Tahil MIT Graduate Fellowship
@@ -56,6 +59,9 @@
 - title: Honors & Awards
   type: time_table
   contents:
+    - year: 2023
+      items:
+        - Outstanding Student Presentation Award (OSPA), AGU 2023 Fall Meeting
     - year: 2021
       items:
         - Honorable Mention NSF GRFP
@@ -74,20 +80,55 @@
         - MATLAB
         - Python
         - ArcGIS Pro
+        - QGIS
         - GitHub
+        - Adobe Illustrator
     - title: Lab
       items:
-        - LOI
+        - Loss on Ignition (LOI)
         - Optically Stimulated Luminescence (OSL)
         - Biomass analysis (vegetation)
         - Grain Size analysis
     - title: Field
+      items:
         - Humboldt Shear Vane
         - Sediment Coring
-        - Vegetation Transects & Collection
+        - Wetland Vegetation Transects & Collection
         - Tiltmeters
+        - HOBO Pressure and Temperature Sensors
         - RTK GPS
         - Ground Penetrating Radar (GPR)
+        
+- title: Teaching Experience
+  type: time_table
+  contents:
+    - year: 2024
+      items:
+        - Faculty, Buzzards Bay Term Program, Gull Island Institute
+        - Graduate Teaching Trainee (Coastal Geomorphology, MIT-WHOI Joint Program)
+            - Guest Lecturer, Marshes & Tidal Environments
+            - Guest Lecturer, Wave Shoaling & the Shoreface
+        - Guest Lecturer, Watersheds & Island Rivers (Introduction to Environmental Science, College of Holy Cross)
+        - Guest Lecturer, Coral Reef & Volcanic Ocean Island Geomorphology (Introduction to Coastal Processes, Boston College)
+    - year: 2023
+      items:
+        - Faculty, Buzzards Bay Term Program, Gull Island Institute
+        - Course Organizer & Instructor, Introduction to Python, WHOI Math Review
+    - year: 2022
+      items:
+        - Course Organizer & Instructor, Introduction to Python, WHOI Math Review
+    - year: 2021
+      items:
+        - Instructor, Introduction to Python, WHOI Math Review
+        - Educational Jupyter Lab Developer, <i>Simulating Shoreline Change using Coupled CoastSat and Coastline Evolution Model (CEM)</i>, CSDMS ESPIn Summer Institute
+        - Graduate Teaching Assistant, Discover EAPS Extreme Weather, MIT
+    - year: 2019
+      items:
+        - Undergraduate Teaching Assistant (Earth Surface Processes, William & Mary)
+            - Guest Lecturer, Coastal Geomorphology
+    - year: 2018
+      items:
+        - Undergraduate Teaching Assistant (Physical Geography, William & Mary)
 
 - title: Academic Interests
   type: list
@@ -106,6 +147,6 @@
 - title: Extracurriculars
   type: list
   contents:
-    - Coach & Player (2021-2023), sMITe Ultimate
+    - Coach (2023-Current) & Player (2021-2023), sMITe Ultimate
     - Player & Uniform Chair, Boston Vice Ultimate
 
