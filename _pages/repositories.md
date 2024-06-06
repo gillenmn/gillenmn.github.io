@@ -4,7 +4,7 @@ permalink: /repositories/
 title: repositories
 description: publically available repositories from my research and teaching endeavors
 nav: false
-nav_order: 4
+nav_order: 6
 ---
 
 ## GitHub users
