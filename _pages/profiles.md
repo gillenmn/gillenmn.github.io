@@ -7,7 +7,7 @@ nav_order: 1
 
 profiles:
   - align: right
-    image: mgillen.jpg
+    image: mgillen2.jpg
     content: about_gillen.md
     image_circular: false # crops the image to make it circular
 ---
