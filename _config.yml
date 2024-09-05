@@ -48,9 +48,10 @@ rss_icon: true
 
 navbar_fixed: true
 footer_fixed: true
+search_enabled: true
 
 # Dimensions
-max_width: 800px
+max_width: 930px
 
 # TODO: add layout settings (single page vs. multi-page)
 
@@ -247,7 +248,7 @@ scholar:
   last_name: [Gillen]
   first_name: [Megan, N.]
 
-  style: apa
+  style: mla
   locale: en
 
   source: /_bibliography/
