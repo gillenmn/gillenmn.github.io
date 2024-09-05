@@ -2,7 +2,7 @@
 layout: about
 title: home
 permalink: /
-subtitle: Coastal Geomorphologist 🌊🏝️🪸
+subtitle: Geomorphologist 🌊🏝️🪸
 
 profile:
   align: right
@@ -17,4 +17,4 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-Hello! I'm currently a 4th year Ph.D. Candidate in the [MIT-WHOI Joint Program in Oceanography](https://mit.whoi.edu) studying coastal geomorphology. You can learn more [about me here](/aboutme).
+Hello! I'm a 5th year Ph.D. Candidate in the [MIT-WHOI Joint Program in Oceanography](https://mit.whoi.edu) studying coastal geomorphology. You can learn more [about me here](/aboutme).
