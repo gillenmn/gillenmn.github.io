@@ -51,6 +51,7 @@
   type: time_table
   contents:
     - year: 2025
+      items:
         - MIT Research Mentorship Certificate
         - MIT Grant Writing Certificate
     - year: 2024
