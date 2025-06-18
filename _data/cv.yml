@@ -50,6 +50,9 @@
 - title: Certificates
   type: time_table
   contents:
+    - year: 2025
+        - MIT Research Mentorship Certificate
+        - MIT Grant Writing Certificate
     - year: 2024
       items:
         - MIT Kaufman Teaching Certificate Program
@@ -148,6 +151,6 @@
 - title: Extracurriculars
   type: list
   contents:
-    - Coach (2023-Current) & Player (2021-2023), sMITe Ultimate
+    - Coach (2023-2025) & Player (2021-2023), sMITe Ultimate
     - Player & Uniform Chair (2022-Current), Boston Vice Ultimate
 
