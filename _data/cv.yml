@@ -3,26 +3,41 @@
   contents:
     - name: Full Name
       value: Megan Gillen
-    - name: Date of Birth
-      value: 5th July 1998
     - name: Languages
       value: English
     - name: E-mail
       value: mgillen@mit.edu
+      
+- title: Appointments
+  type: time_table
+  contents:
+    - title: Postdoctoral Research Fellow
+      institution: Boston College, Newton, MA, USA
+      year: 2026
+      description:
+        - Outwash Dynamics and Erosion across Coastal Barriers
 
 - title: Education
   type: time_table
   contents:
     - title: Ph.D.
       institution: MIT-WHOI Joint Program in Oceanography, Cambridge and Woods Hole, MA, USA
-      year: 2025
+      year: 2026
       description:
+        - Signatures of Land-Ocean Interactions in Coastal Morphology
     - title: B.S. in Geology
       institution: William & Mary, Williamsburg, VA, USA
       year: 2020
       description:
         - Received High Honors for Senior Thesis <i>Vulnerability & Reslience of Tidal Marshes Along an Estuarine Salinity Gradient</i>
         - Minor in Data Science with a concentration in GIS
+
+- title: Invited Presentations
+  type: time_table
+  contents:
+    - year: 2025
+      items:
+        - <i>From Island Streams to Coral Seas: Mapping the Impact of River Systems on Reef Morphology</i>, Roger Williams University Division of Marine and Natural Sciences Seminar
 
 - title: Fellowships and Grants
   type: time_table
@@ -90,6 +105,7 @@
         - Adobe Illustrator
     - title: Lab
       items:
+        - CAMSIZER
         - Loss on Ignition (LOI)
         - Optically Stimulated Luminescence (OSL)
         - Biomass analysis (vegetation)
@@ -152,6 +168,6 @@
 - title: Extracurriculars
   type: list
   contents:
-    - Coach (2023-2025) & Player (2021-2023), sMITe Ultimate
+    - Coach (2023-Current) & Player (2021-2023), sMITe Ultimate
     - Player & Uniform Chair (2022-Current), Boston Vice Ultimate
 
