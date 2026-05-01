@@ -4,4 +4,4 @@ I completed my Ph.D. in the [MIT-WHOI Joint Program in Oceanography](https://mit
 
 My research interests broadly include: (1) Dynamics & temporal thresholds between terrestrial and marine processes at ocean islands (2) Identifying morphologic signatures of dominant surface processes through time in coastal environments (3) Connections between ecology and geomorphology in coastal sediment budgets and long-term evolution (4) Integrating large data sets into numerical modeling to improve accuracy & add complexity
 
-Interested in collaborating or talking science? Please reach out to me via [e-mail!](mailto:mgillen@mit.edu).
+Interested in collaborating or talking science? Please reach out to me via [e-mail!](mailto:megan.gillen@bc.edu).
