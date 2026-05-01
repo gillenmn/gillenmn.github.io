@@ -36,7 +36,7 @@
   type: time_table
   contents:
     - year: 2025
-      items:
+      description:
         - <i>From Island Streams to Coral Seas: Mapping the Impact of River Systems on Reef Morphology</i>, Roger Williams University Division of Marine and Natural Sciences Seminar
 
 - title: Fellowships and Grants

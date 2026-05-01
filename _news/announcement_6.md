@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-successfully defended my Ph.D.! :woman-scientist:
+successfully defended my Ph.D.! 👩‍🔬
